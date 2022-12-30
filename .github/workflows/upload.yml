@@ -21,8 +21,8 @@ jobs:
     - name: Updating website.
       uses: appleboy/ssh-action@master
       with:
-        host: based.cooking
-        username: based
+        host: southafricanminorityunion.com
+        username: root
         key: ${{ secrets.SAMU_SSH }}
         passphrase: ${{ secrets.SAMU_SSH_PASS }}
         port: ${{ secrets.SAMU_SSH_PORT }}
