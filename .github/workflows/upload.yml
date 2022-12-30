@@ -30,6 +30,6 @@ jobs:
           cd /repo
           git stash
           git pull --force origin master
-          rsync -Pcauv /repo/static/ ~/samu-site/static 
+          rsync -Pcauv /repo/static/ ~/samu-site/static --delete
           cd ~/samu-site
           hugo -t /var/www/lugo --cacheDir ~/hugocache
