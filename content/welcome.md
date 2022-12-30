@@ -14,3 +14,7 @@ to help and collaborate writing our own articles.
 
 Be sure to check the guidelines in order to have your submission accepted.
 
+## Testing workflow
+
+If this updates automatically, this is a success, however I must still syslink the pix directory.
+
