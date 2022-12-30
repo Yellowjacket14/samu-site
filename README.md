@@ -16,7 +16,7 @@ The goal of this website is for anyone to be able to collaborate and help, these
 
 ## Contribution Guidelines
 
-- Base your file on `example.md` (when uploaded) and place them inside `content/`.
+- Base your file on `example.md` and place them inside `content/`.
 - Files should have short names, relevant to the content, words should be separated by hyphens (`-`), do _not_ use spaces nor underscores.
 - Articles must be relevant to the Boer struggle, the content may stretch out as far as lifestyle (workouts, promoting organizations) but irrelevant content
 will be rejected.
