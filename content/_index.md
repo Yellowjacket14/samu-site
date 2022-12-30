@@ -1,6 +1,6 @@
 ---
 title: "South African Minority Union"
-description: 'SAMU website test'
+description: 'A Minority Rights Organization'
 layout: single
 ---
 ## About SAMU:
