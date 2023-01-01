@@ -22,7 +22,7 @@ The goal of this website is for anyone to be able to collaborate and help, these
 will be rejected.
 - Images may be taken from the internet (such as referencing a news event, if the case allows) but ideally must be smaller than 100 kb in size.
 - You may promote your organization and link it in an article.
-- Afrikaans articles are more than welcome, that being said, only English and Afrikaans articles will be accepted.
+- Afrikaans articles are more than welcome, that being said, only _English, Afrikaans, Dutch and German_ articles will be accepted, more languages may be accepted in the future.
 - Whilst this website wishes to promote the Boer struggle, keep in mind this is still a website that _must_ adhere to the many laws of the internet,
 this means that you should be mindful of your language and content.
 
