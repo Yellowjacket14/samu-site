@@ -1,6 +1,6 @@
 ---
 title: "Welcome"
-date: "28-12-2022"
+date: 2022-12-28
 author: "mawlr"
 taglist: true
 tags: ['announcements']
