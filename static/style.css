@@ -100,6 +100,12 @@ footer {
 	#artlist { column-count: 3 ;}
 }
 
+#tag_announcements:before { content: "📯" ;}
+#tag_dutch:before { content: "🇳🇱" ;}
+#tag_english:before { content: "🏴󠁧󠁢󠁥󠁮󠁧󠁿" ;}
+#tag_afrikaans:before { content: "🟧" ;}
+#tag_german:before { content: "🇩🇪" ;}
+
 .socialscontainer {
     display: flex ;
     flex-wrap: wrap ;
@@ -114,10 +120,4 @@ footer {
 	flex-direction: column;
 	justify-content: space-between;
 }
-
-#tag_announcements:before { content: "📯" ;}
-#tag_dutch:before { content: "🇳🇱" ;}
-#tag_english:before { content: "🏴󠁧󠁢󠁥󠁮󠁧󠁿" ;}
-#tag_afrikaans:before { content: "🟧" ;}
-#tag_german:before { content: "🇩🇪" ;}
 
