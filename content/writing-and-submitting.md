@@ -2,7 +2,7 @@
 title: Creating and Submitting an Article
 tags: ['help', 'english']
 date: 2023-01-01
-author: "Hennie"
+author: "hennie"
 ---
 
 
