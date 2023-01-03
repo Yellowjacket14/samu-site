@@ -3,19 +3,24 @@ title: "South African Minority Union"
 description: 'A Minority Rights Organization'
 layout: single
 ---
-## About SAMU:
+## About SAMU
 
 The South African Minority Union (SAMU) is an organization solely devoted to the promotion of Boer interests through the use of networking locally and with other parallel institutions and endeavors abroad.
 
 Through this website we aim to provide an outlet for communiqué free of institutional supervision and dominion.
 
-## Latest Articles:
+## Latest Articles
 
 {{< artlist >}}
 
-## Browse by Category:
+## Browse by Category
 
 {{< tagcloud >}}
+
+## Ways to Contribute
+
+Articles may be submitted on [GitHub](https://github.com/MawLr/samu-site), you're welcome to collaborate, just make sure you read
+the guidelines.
 
 ## Other Media:
 
