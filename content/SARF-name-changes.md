@@ -1,6 +1,6 @@
 ---
 title: "SARF Name Changes"
-date: "2023-01-03"
+date: 2023-01-03
 taglist: true
 tags: ['english','military']
 ---
