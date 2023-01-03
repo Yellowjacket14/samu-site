@@ -116,7 +116,7 @@ footer {
 #tag_afrikaans:before { content: "🟧" ;}
 #tag_german:before { content: "🇩🇪" ;}
 #tag_military:before { content: "⚔️" ;}
-#tag_help:before { content : "ℹ️" ;}
+#tag_help:before { content : "🆘" ;}
 
 .socialscontainer {
     display: flex ;
