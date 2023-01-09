@@ -1,6 +1,6 @@
 ---
 title: Creating and Submitting an Article
-tags: ['help', 'english', 'announcments']
+tags: ['help', 'english', 'announcements']
 date: 2023-01-01
 author: "hennie"
 ---
