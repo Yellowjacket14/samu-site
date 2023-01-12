@@ -1,6 +1,6 @@
 ---
 title: How unique are the Afrikaners? - Part One
-tags: ['culture', english']
+tags: ['culture', 'english']
 date: 2023-01-11
 author: "redcoat"
 ---
