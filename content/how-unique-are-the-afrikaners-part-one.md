@@ -5,7 +5,7 @@ date: 2023-01-11
 author: "redcoat"
 ---
 
-## How unique are the Afrikaners? - Part One
+## Part One
 
 The Afrikaner people are likely well aware of the uniqueness of their situation. President Jacob Zuma once stated that the Afrikaners are Africa’s “only white tribe”,
 and the only ones who are “truly African”. As of now, this is true. But Zuma ignores the fact that there were once other white tribes on the continent. Concerningly, 
@@ -19,7 +19,7 @@ groups who by luck, may find some empathy for the Afrikaner due to facing simila
 
 ![how-unique-are-the-afrikaners-part-one-01](pix/how-unique-are-the-afrikaners-part-one-01.webp)
 
-Caldoches are known for their affinity for guns
+*Caldoches are known for their affinity for guns*
 
 While no group currently shares a similarly precarious situation to the Afrikaners, the first group to be examined may be the most similar. These are the Caldoches of 
 New Caledonia, and the subject of the first article. The Caldoches are a White French-speaking people who inhabit the Polynesian territory of New Caledonia. While New 
