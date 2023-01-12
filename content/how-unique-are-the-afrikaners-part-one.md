@@ -48,4 +48,4 @@ likely to flee to France as the Pied Noir. However, unlike the Pied Noir, they a
 
 ![how-unique-are-the-afrikaners-part-one-02](pix/how-unique-are-the-afrikaners-part-one-02.webp)
 
-French President Macron posing with a Kanak during an anti-independence rally
+*French President Macron posing with a Kanak during an anti-independence rally*
